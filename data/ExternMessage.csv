@@ -1,0 +1,12 @@
+﻿ID,テキスト
+HOW_TO,:pageでページ切り替え
+ERA_N,"\nl<エーラ>,Actor1"
+ERA_F,0
+KEI_N,"\nl<ケイ>,Actor1"
+KEI_F,1
+Tesuto,":name[ERA_N]
+:face[ERA_F]
+テストです。
+改行です。
+:page次のページです。
+:page次のページです2。"

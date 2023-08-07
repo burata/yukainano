@@ -1,0 +1,17 @@
+//https://qiita.com/Sanshiro/items/084fb0971942e03db9a4
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch",
+            "type": "chrome",
+            "request": "launch",
+            "file": "${workspaceRoot}/index.html?test",
+            "runtimeArgs": [
+                "--allow-file-access-from-files",
+                "--remote-debugging-port=9222",
+                "--autoplay-policy=no-user-gesture-required"
+            ]
+        }
+    ]
+}

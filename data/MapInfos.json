@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"expanded":false,"name":"タイトル画面","order":2,"parentId":0,"scrollX":499,"scrollY":341},
+{"id":2,"expanded":false,"name":"会話画面","order":3,"parentId":0,"scrollX":819,"scrollY":521},
+{"id":3,"expanded":false,"name":"布教・地域イベント画面","order":4,"parentId":0,"scrollX":499,"scrollY":337},
+{"id":4,"expanded":false,"name":"交流画面","order":5,"parentId":0,"scrollX":459,"scrollY":323.5},
+{"id":5,"expanded":false,"name":"冒頭イベント","order":1,"parentId":0,"scrollX":819,"scrollY":521},
+{"id":6,"expanded":false,"name":"天使呼び出し画面","order":7,"parentId":0,"scrollX":558,"scrollY":461},
+{"id":7,"expanded":false,"name":"セーブロード選択画面","order":6,"parentId":0,"scrollX":459,"scrollY":323.5},
+{"id":8,"expanded":false,"name":"戦闘画面","order":8,"parentId":0,"scrollX":499,"scrollY":337},
+{"id":9,"expanded":false,"name":"_テンプレートマップ","order":9,"parentId":0,"scrollX":819,"scrollY":521},
+{"id":10,"expanded":false,"name":"ゲームオーバー画面","order":10,"parentId":0,"scrollX":819,"scrollY":521}
+]
